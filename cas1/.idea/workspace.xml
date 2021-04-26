@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dc7bb25e-17e5-4740-8c9d-bb56a71ec70c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/cas1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../domaci1/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../domaci1/.idea/domaci1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../domaci1/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../domaci1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../domaci1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../domaci1/public/images/book/lovac_na_zmajeve.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../domaci1/public/images/book/na_drini_cuprija.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../domaci1/public/images/book/ubiti_pticu_rugalicu.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../domaci1/public/images/idCard/no_photo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../domaci1/public/images/idCard/people1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../domaci1/public/images/idCard/people2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../domaci1/public/images/movie/inception.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../domaci1/public/images/movie/potc.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../domaci1/public/images/movie/the_father.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../domaci1/src/components/books/Books.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../domaci1/src/components/books/Books.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../domaci1/src/components/idCard/IdCard.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../domaci1/src/components/idCard/idCard.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../domaci1/src/components/movies/Movies.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../domaci1/src/components/movies/Movies.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../domaci1/src/components/myImage/MyImage.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../domaci1/src/components/wrapper/Wrapper.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cas1/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cas1/.idea/cas1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cas1/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cas1/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cas1/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/cas1/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cas1/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/cas1/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cas1/public/logo512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cas1/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/cas1/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cas1/src/components/classComponent/ClassComponent.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/cas1/src/components/classComponent/ClassComponent.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cas1/src/components/funcComponent/FuncComponent.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cas1/src/components/idCard/IdCard.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/cas1/src/components/idCard/IdCard.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cas1/src/components/myimage/MyImage.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/cas1/src/components/myimage/MyImage.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cas1/src/components/table/Table.css" beforeDir="false" afterPath="$PROJECT_DIR$/cas1/src/components/table/Table.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cas1/src/components/table/Table.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/cas1/src/components/table/Table.jsx" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1riUV4g5fYjrlkXYd4iJWbmiZyb" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../domaci1" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.completion" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dc7bb25e-17e5-4740-8c9d-bb56a71ec70c" name="Default Changelist" comment="" />
+      <created>1619458424120</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1619458424120</updated>
+      <workItem from="1619458425453" duration="2052000" />
+      <workItem from="1619471385489" duration="2003000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
